@@ -173,6 +173,21 @@ main{
     outline: none;
 }
 
+.portfolio-link{
+    display:block;
+    margin-top:12px;
+    font-size:0.9rem;
+    color:#ffffffb0;
+    text-decoration:none;
+    transition:all 0.3s ease;
+    letter-spacing:1px;
+}
+
+.portfolio-link:hover{
+    color:white;
+    transform:translateY(-2px);
+}
+
 footer{
     background: linear-gradient(135deg, #0a0a0a, #222);
     padding: 20px 40px;
