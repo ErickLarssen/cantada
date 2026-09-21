@@ -12,11 +12,11 @@
 
     Swal.fire({
       icon: 'warning',
-      title: 'Confirmar autuação nº 00225-SP',
-      html: 'Você está prestes a negociar o pagamento das duas multas diretamente com a autuante.',
+      title: 'Confirmar conversa no WhatsApp',
+      html: 'Caso você queira resolver a "pendência", clique em "Falar no WhatsApp".',
       showCancelButton: true,
-      confirmButtonText: 'Pagar agora',
-      cancelButtonText: 'Recorrer',
+      confirmButtonText: 'Falar no WhatsApp!',
+      cancelButtonText: 'Não, obrigado.',
       reverseButtons: true,
       background: 'transparent',
       customClass: {

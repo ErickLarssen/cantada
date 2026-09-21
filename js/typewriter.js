@@ -6,7 +6,7 @@
   const typewriterElement = document.getElementById('typewriter');
   if (!typewriterElement) return;
 
-  const TEXT = 'Olá, PESSOA!';
+  const TEXT = 'Olá, VIVIAN GABRIELLY!';
   const TYPE_SPEED = 100;
   const DELETE_SPEED = 60;
   const HOLD_DELAY = 1400;
